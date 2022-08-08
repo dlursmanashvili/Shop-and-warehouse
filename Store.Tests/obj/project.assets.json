@@ -6860,11 +6860,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\d.lursmanashvili\\Source\\Repos\\daviddvali\\Group-04\\G04_Store\\Store.Tests\\Store.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\d.lursmanashvili\\Source\\Repos\\dlursmanashvili\\Shop-and-warehouse\\Store.Tests\\Store.Tests.csproj",
       "projectName": "Store.Tests",
-      "projectPath": "C:\\Users\\d.lursmanashvili\\Source\\Repos\\daviddvali\\Group-04\\G04_Store\\Store.Tests\\Store.Tests.csproj",
+      "projectPath": "C:\\Users\\d.lursmanashvili\\Source\\Repos\\dlursmanashvili\\Shop-and-warehouse\\Store.Tests\\Store.Tests.csproj",
       "packagesPath": "C:\\Users\\d.lursmanashvili\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\d.lursmanashvili\\Source\\Repos\\daviddvali\\Group-04\\G04_Store\\Store.Tests\\obj\\",
+      "outputPath": "C:\\Users\\d.lursmanashvili\\Source\\Repos\\dlursmanashvili\\Shop-and-warehouse\\Store.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6885,11 +6885,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\d.lursmanashvili\\Source\\Repos\\daviddvali\\Group-04\\G04_Store\\Store.Models\\Store.Models.csproj": {
-              "projectPath": "C:\\Users\\d.lursmanashvili\\Source\\Repos\\daviddvali\\Group-04\\G04_Store\\Store.Models\\Store.Models.csproj"
+            "C:\\Users\\d.lursmanashvili\\Source\\Repos\\dlursmanashvili\\Shop-and-warehouse\\Store.Models\\Store.Models.csproj": {
+              "projectPath": "C:\\Users\\d.lursmanashvili\\Source\\Repos\\dlursmanashvili\\Shop-and-warehouse\\Store.Models\\Store.Models.csproj"
             },
-            "C:\\Users\\d.lursmanashvili\\Source\\Repos\\daviddvali\\Group-04\\G04_Store\\Store.Repositories\\Store.Repositories.csproj": {
-              "projectPath": "C:\\Users\\d.lursmanashvili\\Source\\Repos\\daviddvali\\Group-04\\G04_Store\\Store.Repositories\\Store.Repositories.csproj"
+            "C:\\Users\\d.lursmanashvili\\Source\\Repos\\dlursmanashvili\\Shop-and-warehouse\\Store.Repositories\\Store.Repositories.csproj": {
+              "projectPath": "C:\\Users\\d.lursmanashvili\\Source\\Repos\\dlursmanashvili\\Shop-and-warehouse\\Store.Repositories\\Store.Repositories.csproj"
             }
           }
         }

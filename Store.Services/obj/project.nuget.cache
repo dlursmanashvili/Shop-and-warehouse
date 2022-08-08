@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HhNpHYKQiK6yAhbObi4Ut+Rs6Kkx5UaacIYPxaTPJfTMH91Fy6IDlVYQNg68rS/SFrYe7r05Zqv5feF0ucQQNg==",
+  "dgSpecHash": "5phCcu6lCYysOS0j72d/U0Cv6+HA0nvZ7r93NFTlJcseegpy26ixbozpE2B3PkqL+uDv64khY+ACgcKVdnzFmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\d.lursmanashvili\\Source\\Repos\\daviddvali\\Group-04\\G04_Store\\Store.Services\\Store.Services.csproj",
+  "projectFilePath": "C:\\Users\\d.lursmanashvili\\Source\\Repos\\dlursmanashvili\\Shop-and-warehouse\\Store.Services\\Store.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\d.lursmanashvili\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
     "C:\\Users\\d.lursmanashvili\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

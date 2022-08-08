@@ -460,11 +460,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\d.lursmanashvili\\Source\\Repos\\daviddvali\\Group-04\\G04_Store\\DatabaseHelper\\DatabaseHelper.csproj",
+      "projectUniqueName": "C:\\Users\\d.lursmanashvili\\Source\\Repos\\dlursmanashvili\\Shop-and-warehouse\\DatabaseHelper\\DatabaseHelper.csproj",
       "projectName": "DatabaseHelper",
-      "projectPath": "C:\\Users\\d.lursmanashvili\\Source\\Repos\\daviddvali\\Group-04\\G04_Store\\DatabaseHelper\\DatabaseHelper.csproj",
+      "projectPath": "C:\\Users\\d.lursmanashvili\\Source\\Repos\\dlursmanashvili\\Shop-and-warehouse\\DatabaseHelper\\DatabaseHelper.csproj",
       "packagesPath": "C:\\Users\\d.lursmanashvili\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\d.lursmanashvili\\Source\\Repos\\daviddvali\\Group-04\\G04_Store\\DatabaseHelper\\obj\\",
+      "outputPath": "C:\\Users\\d.lursmanashvili\\Source\\Repos\\dlursmanashvili\\Shop-and-warehouse\\DatabaseHelper\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SnFvc5+f3/IU8zZHvf9kNyvniyaVNbI5kE4VqvOaCSeJ8nLPMGP2sXY5izf9oy7lB1MqR4QPnLfxKobEn6Ihaw==",
+  "dgSpecHash": "xxG22rhOQtpT9FRaJTpavYfr5C9Q267TzZEFeY8+/DrByL1te4Vi8QXLWT/vZZqg9OUhM7ovcZJxUCc5a5ViZQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\d.lursmanashvili\\Source\\Repos\\daviddvali\\Group-04\\G04_Store\\DatabaseHelper\\DatabaseHelper.csproj",
+  "projectFilePath": "C:\\Users\\d.lursmanashvili\\Source\\Repos\\dlursmanashvili\\Shop-and-warehouse\\DatabaseHelper\\DatabaseHelper.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\d.lursmanashvili\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\d.lursmanashvili\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
