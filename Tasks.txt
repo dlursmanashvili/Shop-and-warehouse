@@ -1,0 +1,11 @@
+1) darwmundit rom mushaobs yvela repozitori.+
+2) darwmundit rom mushaobs yvela servisi.+
+3) funqcionalidan gamomdinare aawyvet menius struktura.+
+4) ifiqret meqanizmze romelic gamoachens mxolod im elementebs romelzec wvdomac gaachnia iuzers.+
+5) https://github.com/christiandelbianco/monitor-table-change-with-sqltabledependency?fbclid=IwAR2xII_MEVrNRsw2jpb37X6G5lgXDckkAzKM5jBneiLWz2zvFx_P7uNvXCw
+6) gavaketot meqanizmi romelic damalavs yvela menius punqts da gilaks romlezec momxmarebels ar aqvs wvdoma.
+7) avawyot employeris damatebis / updatesi forma da chavawerinot bazashi. +
+8) damatebis / updatesi mere moaxdinos gridis refreshi.
+9) gridze avkrdzalot ramdenimes monishvna da movnishnot mteli row.
+10) davamatot emploerebis serchis paneli tviton listis formashi.
+11) emploerebis washla.

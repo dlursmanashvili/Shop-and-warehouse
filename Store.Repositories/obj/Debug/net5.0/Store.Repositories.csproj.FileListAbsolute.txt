@@ -1,0 +1,17 @@
+C:\Users\d.lursmanashvili\Source\Repos\daviddvali\Group-04\G04_Store\Store.Repositories\bin\Debug\net5.0\Store.Repositories.deps.json
+C:\Users\d.lursmanashvili\Source\Repos\daviddvali\Group-04\G04_Store\Store.Repositories\bin\Debug\net5.0\Store.Repositories.dll
+C:\Users\d.lursmanashvili\Source\Repos\daviddvali\Group-04\G04_Store\Store.Repositories\bin\Debug\net5.0\Store.Repositories.pdb
+C:\Users\d.lursmanashvili\Source\Repos\daviddvali\Group-04\G04_Store\Store.Repositories\bin\Debug\net5.0\DatabaseHelper.dll
+C:\Users\d.lursmanashvili\Source\Repos\daviddvali\Group-04\G04_Store\Store.Repositories\bin\Debug\net5.0\Store.Models.dll
+C:\Users\d.lursmanashvili\Source\Repos\daviddvali\Group-04\G04_Store\Store.Repositories\bin\Debug\net5.0\DatabaseHelper.pdb
+C:\Users\d.lursmanashvili\Source\Repos\daviddvali\Group-04\G04_Store\Store.Repositories\bin\Debug\net5.0\Store.Models.pdb
+C:\Users\d.lursmanashvili\Source\Repos\daviddvali\Group-04\G04_Store\Store.Repositories\obj\Debug\net5.0\Store.Repositories.csproj.AssemblyReference.cache
+C:\Users\d.lursmanashvili\Source\Repos\daviddvali\Group-04\G04_Store\Store.Repositories\obj\Debug\net5.0\Store.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.lursmanashvili\Source\Repos\daviddvali\Group-04\G04_Store\Store.Repositories\obj\Debug\net5.0\Store.Repositories.AssemblyInfoInputs.cache
+C:\Users\d.lursmanashvili\Source\Repos\daviddvali\Group-04\G04_Store\Store.Repositories\obj\Debug\net5.0\Store.Repositories.AssemblyInfo.cs
+C:\Users\d.lursmanashvili\Source\Repos\daviddvali\Group-04\G04_Store\Store.Repositories\obj\Debug\net5.0\Store.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\d.lursmanashvili\Source\Repos\daviddvali\Group-04\G04_Store\Store.Repositories\obj\Debug\net5.0\Store.Repositories.csproj.CopyComplete
+C:\Users\d.lursmanashvili\Source\Repos\daviddvali\Group-04\G04_Store\Store.Repositories\obj\Debug\net5.0\Store.Repositories.dll
+C:\Users\d.lursmanashvili\Source\Repos\daviddvali\Group-04\G04_Store\Store.Repositories\obj\Debug\net5.0\refint\Store.Repositories.dll
+C:\Users\d.lursmanashvili\Source\Repos\daviddvali\Group-04\G04_Store\Store.Repositories\obj\Debug\net5.0\Store.Repositories.pdb
+C:\Users\d.lursmanashvili\Source\Repos\daviddvali\Group-04\G04_Store\Store.Repositories\obj\Debug\net5.0\ref\Store.Repositories.dll

@@ -1,0 +1,12 @@
+C:\Users\d.lursmanashvili\Source\Repos\daviddvali\Group-04\G04_Store\DatabaseHelper\bin\Debug\net5.0\DatabaseHelper.deps.json
+C:\Users\d.lursmanashvili\Source\Repos\daviddvali\Group-04\G04_Store\DatabaseHelper\bin\Debug\net5.0\DatabaseHelper.dll
+C:\Users\d.lursmanashvili\Source\Repos\daviddvali\Group-04\G04_Store\DatabaseHelper\bin\Debug\net5.0\DatabaseHelper.pdb
+C:\Users\d.lursmanashvili\Source\Repos\daviddvali\Group-04\G04_Store\DatabaseHelper\obj\Debug\net5.0\DatabaseHelper.csproj.AssemblyReference.cache
+C:\Users\d.lursmanashvili\Source\Repos\daviddvali\Group-04\G04_Store\DatabaseHelper\obj\Debug\net5.0\DatabaseHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.lursmanashvili\Source\Repos\daviddvali\Group-04\G04_Store\DatabaseHelper\obj\Debug\net5.0\DatabaseHelper.AssemblyInfoInputs.cache
+C:\Users\d.lursmanashvili\Source\Repos\daviddvali\Group-04\G04_Store\DatabaseHelper\obj\Debug\net5.0\DatabaseHelper.AssemblyInfo.cs
+C:\Users\d.lursmanashvili\Source\Repos\daviddvali\Group-04\G04_Store\DatabaseHelper\obj\Debug\net5.0\DatabaseHelper.csproj.CoreCompileInputs.cache
+C:\Users\d.lursmanashvili\Source\Repos\daviddvali\Group-04\G04_Store\DatabaseHelper\obj\Debug\net5.0\DatabaseHelper.dll
+C:\Users\d.lursmanashvili\Source\Repos\daviddvali\Group-04\G04_Store\DatabaseHelper\obj\Debug\net5.0\refint\DatabaseHelper.dll
+C:\Users\d.lursmanashvili\Source\Repos\daviddvali\Group-04\G04_Store\DatabaseHelper\obj\Debug\net5.0\DatabaseHelper.pdb
+C:\Users\d.lursmanashvili\Source\Repos\daviddvali\Group-04\G04_Store\DatabaseHelper\obj\Debug\net5.0\ref\DatabaseHelper.dll

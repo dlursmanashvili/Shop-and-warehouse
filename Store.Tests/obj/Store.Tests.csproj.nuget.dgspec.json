@@ -1,0 +1,296 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\d.lursmanashvili\\Source\\Repos\\daviddvali\\Group-04\\G04_Store\\Store.Tests\\Store.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\d.lursmanashvili\\Source\\Repos\\daviddvali\\Group-04\\G04_Store\\DatabaseHelper\\DatabaseHelper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\d.lursmanashvili\\Source\\Repos\\daviddvali\\Group-04\\G04_Store\\DatabaseHelper\\DatabaseHelper.csproj",
+        "projectName": "DatabaseHelper",
+        "projectPath": "C:\\Users\\d.lursmanashvili\\Source\\Repos\\daviddvali\\Group-04\\G04_Store\\DatabaseHelper\\DatabaseHelper.csproj",
+        "packagesPath": "C:\\Users\\d.lursmanashvili\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\d.lursmanashvili\\Source\\Repos\\daviddvali\\Group-04\\G04_Store\\DatabaseHelper\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\d.lursmanashvili\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\d.lursmanashvili\\Source\\Repos\\daviddvali\\Group-04\\G04_Store\\Store.Models\\Store.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\d.lursmanashvili\\Source\\Repos\\daviddvali\\Group-04\\G04_Store\\Store.Models\\Store.Models.csproj",
+        "projectName": "Store.Models",
+        "projectPath": "C:\\Users\\d.lursmanashvili\\Source\\Repos\\daviddvali\\Group-04\\G04_Store\\Store.Models\\Store.Models.csproj",
+        "packagesPath": "C:\\Users\\d.lursmanashvili\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\d.lursmanashvili\\Source\\Repos\\daviddvali\\Group-04\\G04_Store\\Store.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\d.lursmanashvili\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\d.lursmanashvili\\Source\\Repos\\daviddvali\\Group-04\\G04_Store\\Store.Repositories\\Store.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\d.lursmanashvili\\Source\\Repos\\daviddvali\\Group-04\\G04_Store\\Store.Repositories\\Store.Repositories.csproj",
+        "projectName": "Store.Repositories",
+        "projectPath": "C:\\Users\\d.lursmanashvili\\Source\\Repos\\daviddvali\\Group-04\\G04_Store\\Store.Repositories\\Store.Repositories.csproj",
+        "packagesPath": "C:\\Users\\d.lursmanashvili\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\d.lursmanashvili\\Source\\Repos\\daviddvali\\Group-04\\G04_Store\\Store.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\d.lursmanashvili\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\d.lursmanashvili\\Source\\Repos\\daviddvali\\Group-04\\G04_Store\\DatabaseHelper\\DatabaseHelper.csproj": {
+                "projectPath": "C:\\Users\\d.lursmanashvili\\Source\\Repos\\daviddvali\\Group-04\\G04_Store\\DatabaseHelper\\DatabaseHelper.csproj"
+              },
+              "C:\\Users\\d.lursmanashvili\\Source\\Repos\\daviddvali\\Group-04\\G04_Store\\Store.Models\\Store.Models.csproj": {
+                "projectPath": "C:\\Users\\d.lursmanashvili\\Source\\Repos\\daviddvali\\Group-04\\G04_Store\\Store.Models\\Store.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Pluralize.NET": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\d.lursmanashvili\\Source\\Repos\\daviddvali\\Group-04\\G04_Store\\Store.Tests\\Store.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\d.lursmanashvili\\Source\\Repos\\daviddvali\\Group-04\\G04_Store\\Store.Tests\\Store.Tests.csproj",
+        "projectName": "Store.Tests",
+        "projectPath": "C:\\Users\\d.lursmanashvili\\Source\\Repos\\daviddvali\\Group-04\\G04_Store\\Store.Tests\\Store.Tests.csproj",
+        "packagesPath": "C:\\Users\\d.lursmanashvili\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\d.lursmanashvili\\Source\\Repos\\daviddvali\\Group-04\\G04_Store\\Store.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\d.lursmanashvili\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\d.lursmanashvili\\Source\\Repos\\daviddvali\\Group-04\\G04_Store\\Store.Models\\Store.Models.csproj": {
+                "projectPath": "C:\\Users\\d.lursmanashvili\\Source\\Repos\\daviddvali\\Group-04\\G04_Store\\Store.Models\\Store.Models.csproj"
+              },
+              "C:\\Users\\d.lursmanashvili\\Source\\Repos\\daviddvali\\Group-04\\G04_Store\\Store.Repositories\\Store.Repositories.csproj": {
+                "projectPath": "C:\\Users\\d.lursmanashvili\\Source\\Repos\\daviddvali\\Group-04\\G04_Store\\Store.Repositories\\Store.Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

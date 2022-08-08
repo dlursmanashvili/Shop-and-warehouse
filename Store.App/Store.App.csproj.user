@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="DialogForms\CategoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DialogForms\EmployeeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DialogForms\PermissionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DialogForms\ProductForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DialogForms\RoleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DialogForms\TransactionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DialogForms\UserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListForms\CategoriesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListForms\EmployeesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListForms\PermissionsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListForms\ProductsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListForms\RolesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListForms\TransactionsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListForms\UsersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,12 @@
+C:\Users\d.lursmanashvili\Source\Repos\daviddvali\Group-04\G04_Store\Store.Models\bin\Debug\net5.0\Store.Models.deps.json
+C:\Users\d.lursmanashvili\Source\Repos\daviddvali\Group-04\G04_Store\Store.Models\bin\Debug\net5.0\Store.Models.dll
+C:\Users\d.lursmanashvili\Source\Repos\daviddvali\Group-04\G04_Store\Store.Models\bin\Debug\net5.0\Store.Models.pdb
+C:\Users\d.lursmanashvili\Source\Repos\daviddvali\Group-04\G04_Store\Store.Models\obj\Debug\net5.0\Store.Models.csproj.AssemblyReference.cache
+C:\Users\d.lursmanashvili\Source\Repos\daviddvali\Group-04\G04_Store\Store.Models\obj\Debug\net5.0\Store.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.lursmanashvili\Source\Repos\daviddvali\Group-04\G04_Store\Store.Models\obj\Debug\net5.0\Store.Models.AssemblyInfoInputs.cache
+C:\Users\d.lursmanashvili\Source\Repos\daviddvali\Group-04\G04_Store\Store.Models\obj\Debug\net5.0\Store.Models.AssemblyInfo.cs
+C:\Users\d.lursmanashvili\Source\Repos\daviddvali\Group-04\G04_Store\Store.Models\obj\Debug\net5.0\Store.Models.csproj.CoreCompileInputs.cache
+C:\Users\d.lursmanashvili\Source\Repos\daviddvali\Group-04\G04_Store\Store.Models\obj\Debug\net5.0\Store.Models.dll
+C:\Users\d.lursmanashvili\Source\Repos\daviddvali\Group-04\G04_Store\Store.Models\obj\Debug\net5.0\refint\Store.Models.dll
+C:\Users\d.lursmanashvili\Source\Repos\daviddvali\Group-04\G04_Store\Store.Models\obj\Debug\net5.0\Store.Models.pdb
+C:\Users\d.lursmanashvili\Source\Repos\daviddvali\Group-04\G04_Store\Store.Models\obj\Debug\net5.0\ref\Store.Models.dll
